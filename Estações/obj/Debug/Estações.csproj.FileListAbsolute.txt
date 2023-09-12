@@ -1,0 +1,12 @@
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.csproj.AssemblyReference.cache
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.Properties.Resources.resources
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.csproj.GenerateResource.cache
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.csproj.CoreCompileInputs.cache
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\bin\Debug\Estações.exe.config
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\bin\Debug\Estações.exe
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\bin\Debug\Estações.pdb
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.exe
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.pdb
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.Es.resources
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Alan\OneDrive\Área de Trabalho\Estações\Estações\obj\Debug\Estações.csproj.CopyComplete
